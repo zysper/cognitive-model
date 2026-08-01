@@ -1,3 +1,10 @@
+<!--
+SPDX-License-Identifier: CC-BY-4.0
+Copyright (c) 2026 zysp mail:zysp@163.com
+See LICENSE in repo root.
+-->
+
+
 # 野生拟合认知模型 wild-fitting cognitive model
 ## 副标题：稳态拟合学习动力学模型 Steady-State Fitting Cognitive Dynamics Model
 v1.8.9.4
