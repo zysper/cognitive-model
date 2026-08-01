@@ -1,3 +1,10 @@
+<!--
+SPDX-License-Identifier: CC-BY-4.0
+Copyright (c) 2026 zysp mail:zysp@163.com
+See LICENSE in repo root.
+-->
+
+
 # 情绪论（稳态拟合动力学·终审修订版｜修复五大盲区）
 
 ## 一、定位与体系归属
