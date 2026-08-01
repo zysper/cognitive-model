@@ -1,3 +1,11 @@
+<!--
+SPDX-License-Identifier: CC-BY-4.0
+Copyright (c) 2026 zysp mail:zysp@163.com
+See LICENSE in repo root.
+-->
+
+
+
 # 动机论
 ## 副标题：稳态拟合动力学在群体耦合场景的递推应用
 版本说明： 本文档为《稳态拟合认知模型 v1.8.9.4》的群体动力学扩展章节，独立成篇，但不修改主干公理体系。所有主张均为主干语法在多系统耦合场景的自然延伸。
